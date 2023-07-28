@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I am a Computer Science Grad student at NC State.
 - I am full stack developer and enthusiastic about Machine Learning & its applications.
-- I am working as a SDE Intern @PowerN
+- I am working as a Software Developer @PowerN
 - I Interned @Red Hat as a Data Science & Analytics Intern in Summer 2022
 - I worked as a full stack developer @Cognizant for three years.
 - You can reach me at: srujanponnur@gmail.com
